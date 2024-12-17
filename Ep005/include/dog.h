@@ -1,10 +1,9 @@
 #ifndef DOG_H
 #define DOG_H
-#endif
+
 
 #include <iostream>
 //#include <string>
-
 
 class Dog {
     std::string name;
@@ -15,3 +14,5 @@ class Dog {
     std::string get_dog_name();
     ~Dog();
 };
+
+#endif
