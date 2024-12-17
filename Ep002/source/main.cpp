@@ -9,6 +9,6 @@ T add(T a, T b){
 
 int main(){
     std::cout << "hellow c++ 20 using cmake tool" << std::endl;
-    std::cout << "add a + b = " << add(10, 20) << std::endl;
+    std::cout << "add a + b = " << add(10, 50) << std::endl;
     return 0;
 }
